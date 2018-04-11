@@ -9,4 +9,16 @@ Albert Cabellos*
 
 http://knowledgedefinednetworking.org/
 
-### OMNeT++ 5.2
+#### OMNeT++ 5.2
+#### DDPG TensorFlow
+h5py==2.7.0
+
+Keras==1.2.2
+
+networkx==1.11
+
+numpy==1.12.1
+
+scipy==0.19.0
+
+tensorflow==1.0.1
