@@ -1,0 +1,22 @@
+version 2
+run General-0-20180405-15:59:43-9151
+attr configname General
+attr datetime 20180405-15:59:43
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars $generation=0
+attr iterationvarsf generation=0-
+attr measurement $generation=0
+attr network NetworkAll
+attr processid 9151
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+itervar generation 0
+param **.simulationDuration 1024
+param **.lambda 1
+param **.generation 0
+
+
