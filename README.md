@@ -8,3 +8,5 @@ Albert Cabellos*
 {giorgio,acabello}@ac.upc.edu, marias@cs.upc.edu, {david.sanchez,victor.muntes}@ca.com
 
 http://knowledgedefinednetworking.org/
+
+### OMNeT++ 5.2
