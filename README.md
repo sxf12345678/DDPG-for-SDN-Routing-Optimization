@@ -74,6 +74,7 @@ python3 ddpg.py play folder
 
 ---
 
+https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization
 author: giorgio@ac.upc.edu
 
 * [Keras](https://keras.io/)
